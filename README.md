@@ -2,6 +2,10 @@
 
 ## Descripción
 
+Este proyecto preliminar forma parte de mi Trabajo Fin de Grado en la EPS-UAM, cuyo título es:  Estudio y desarrollo de una herramienta en tiempo real para estimulación bidireccional dirigida por codificación temporal en el contexto de peces. eléctricos.
+
+El software desarrollado en este proyecto es libre por lo que cualquier persona o grupo de investigación puede hacer uso de él para realizar sus propios experimentos.
+
 Esta herramienta está formada por tres módulos distintos diseñada para el estudio de la codificación de información en el
 sistema nervioso mediante la estimulación bidireccional en ciclo cerrado.
 
@@ -29,8 +33,12 @@ Se recomienda el uso del módulo Sync para sincronizar todos los módulos en los
 
 ## Apoyo
 
-Para más información puede contactar al correo alberto.ayala@estudiante.uam.es
+Para más información técnica se puede contactar al correo alberto.ayala@estudiante.uam.es (Alberto Ayala Valencia)
 
 ## Autores y reconocimiento
 
-Especial reconocimiento a Ángel Lareo y Francisco de Borja Rodríguez Ortiz.
+Alberto Ayala Valencia y especial reconocimiento a Ángel Lareo Fernández y Francisco de Borja Rodríguez Ortiz,
+
+
+
+Departamento de Ingeniería Informática, Grupo de Neurocomputación Biológica, Escuela Politécnica Superior, Universidad Autónoma de Madrid, Madrid, Spain
