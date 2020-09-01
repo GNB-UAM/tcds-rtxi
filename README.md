@@ -2,6 +2,11 @@
 
 ## Descripción
 
+Por favor, si usa alguno de esto módulos cita en tu publicación el siguiente trabajo:
+
+Ayala Valencia, A., Lareo Fernández, Á., & Rodríguez Ortiz, F. d. (2020). Estudio y desarrollo de una herramienta en tiempo real para estimulación bidireccional dirigida por codificación temporal en el contexto de peces. eléctricos. Madrid.
+
+
 Este proyecto preliminar forma parte de mi Trabajo Fin de Grado en la EPS-UAM, cuyo título es:  Estudio y desarrollo de una herramienta en tiempo real para estimulación bidireccional dirigida por codificación temporal en el contexto de peces. eléctricos.
 
 El software desarrollado en este proyecto es libre por lo que cualquier persona o grupo de investigación puede hacer uso de él para realizar sus propios experimentos.
