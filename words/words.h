@@ -1,4 +1,15 @@
 /*
+* Copyright (C) 2020 Universidad Autonoma de Madrid, Madrid, Spain, Escuela
+* Politecnica Superior, Departamento de Ingenieria Informatica, Grupo de 
+* Neurocomputacion Biologica (contact: alberto.ayala@estudiante.uam.es Alberto
+* Ayala Valencia)
+*/
+
+/*
+* Copyright (C) 2013 Angel Lareo <angel.lareo@gmail.com>
+*/
+
+/*
  * Copyright (C) 2011 Georgia Institute of Technology, University of Utah,
  * Weill Cornell Medical College
  *
@@ -16,14 +27,9 @@
  * this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-/*
- * This is a template header file for a user modules derived from
- * DefaultGUIModel with a custom GUI.
- */
-
 ////////////////////////////////////////////////////////////////////////////////
 /*!
-   \file ownGenewordsrator.h
+   \file words.h
    \date 7/2020
    \author Alberto Ayala
 

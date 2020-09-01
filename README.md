@@ -31,14 +31,18 @@ Antes de comenzar la ejecución, se deben inicializar los parámetros de cada m�
 
 Se recomienda el uso del módulo Sync para sincronizar todos los módulos en los experimentos.
 
-## Apoyo
+## Desarrollo
 
 Para más información técnica se puede contactar al correo alberto.ayala@estudiante.uam.es (Alberto Ayala Valencia)
 
-## Autores y reconocimiento
+## Autores
 
-Alberto Ayala Valencia y especial reconocimiento a Ángel Lareo Fernández y Francisco de Borja Rodríguez Ortiz,
+Alberto Ayala Valenci, Ángel Lareo Fernández y Francisco de Borja Rodríguez Ortiz,
 
 
 
 Departamento de Ingeniería Informática, Grupo de Neurocomputación Biológica, Escuela Politécnica Superior, Universidad Autónoma de Madrid, Madrid, Spain
+
+## Licencia
+
+[GNU GPL 3](https://www.gnu.org/licenses/gpl-3.0.html)
